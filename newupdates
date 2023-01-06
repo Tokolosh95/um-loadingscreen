@@ -1,19 +1,5 @@
 -----------
-11/05/2022
+06/01/2023
 -----------
-Updated server & scripts to newest versions
-Added new phone
-Added new store robbery
-Added new jewellery robberies
-Added new bank truck robbery
-Added new boosting system
-Added new clothing pack (Need to remake outfits)
-Added new housing system (Everyone with a house open a ticket)
-Added new banking system
-Added new garbage job
-Added new delivery job
-Added new hud
-Added new fuelling system (No more jerry cans)
-Added new heist
-Moved PD and EMS vehicle shop to import dealer
-Updated billing system (on phone)
+Updated AI Medic, No longer a command. Hold H after you have bled out, also has a cooldown of 5min before you can use it again.
+AI medic can now be used when EMS is online however the price is X by every on duty EMS, 5 EMS = $25k
