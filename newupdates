@@ -1,4 +1,12 @@
 -----------
+19/01/2023
+-----------
+Updated repair benches, will work with up to 2 mechs on duty.
+Lowered mechanic vehicle repair cost by 50%.
+EMS & PD repair benches will remove money from the society depending on how many mechs on duty up to 2 mechs max.
+Disabled car air control.
+
+-----------
 14/01/2023
 -----------
 Adjusted weapon weights
