@@ -1,4 +1,12 @@
 -----------
+22/01/2023
+-----------
+Removed gang shared garages. (all vehicles stored in gang garages moved to Alta to prevent issues)
+Updated blackmarket seller.
+Added Pops Diner.
+Fixed harrness & custom plate issue.
+
+-----------
 19/01/2023
 -----------
 Updated repair benches, will work with up to 2 mechs on duty.
@@ -14,17 +22,3 @@ Adjusted take away bag slots and weight
 Updated spawn, when you have jail time left you can only spawn last location
 Added tazers to EMS shop
 Added 1of1's to city for Event Prize
-
------------
-07/01/2023
------------
-Removed blackmarket seller required item
-Fixed new weapon holster issue
-Fixed billing exploit
-Added more PD female top textures
-
------------
-06/01/2023
------------
-Updated AI Medic, No longer a command. Hold H after you have bled out, also has a cooldown of 5min before you can use it again.
-AI medic can now be used when EMS is online however the price is X by every on duty EMS, 5 EMS = $25k
