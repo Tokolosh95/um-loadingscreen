@@ -1,6 +1,20 @@
 -----------
 22/01/2023
 -----------
+Updated gruppe 6 job item drop
+Updated bank truck robbery drop
+Updated bobcat robbery drop
+Updated Fleeca bank robbery drop
+Buffed mining
+Buffed garbage job
+Buffed delivery job
+Buffed chopshop
+Added new "scrap system" obtain items via above non whitelisted jobs & chopping, % drop rate.
+Added crafting benches to mechshops to breakdown scrap items
+
+-----------
+22/01/2023
+-----------
 Removed gang shared garages. (all vehicles stored in gang garages moved to Alta to prevent issues)
 Updated blackmarket seller.
 Added Pops Diner.
@@ -14,11 +28,3 @@ Lowered mechanic vehicle repair cost by 50%.
 EMS & PD repair benches will remove money from the society depending on how many mechs on duty up to 2 mechs max.
 Disabled car air control.
 
------------
-14/01/2023
------------
-Adjusted weapon weights
-Adjusted take away bag slots and weight
-Updated spawn, when you have jail time left you can only spawn last location
-Added tazers to EMS shop
-Added 1of1's to city for Event Prize
