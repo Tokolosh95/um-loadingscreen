@@ -1,4 +1,13 @@
 -----------
+29/01/2023
+-----------
+Updated drug labs - Improved performance, QOL updates(You can OD on coke & meth)
+Updated comserve commands
+Added PD weapon repair point
+Removed illegal fish bait from shop, made it a craftable
+Added new Queue system
+
+-----------
 27/01/2023
 -----------
 Moved Bennys to Paleto
@@ -19,20 +28,3 @@ Buffed delivery job
 Buffed chopshop
 Added new "scrap system" obtain items via above non whitelisted jobs & chopping, % drop rate.
 Added crafting benches to mechshops to breakdown scrap items
-
------------
-22/01/2023
------------
-Removed gang shared garages. (all vehicles stored in gang garages moved to Alta to prevent issues)
-Updated blackmarket seller.
-Added Pops Diner.
-Fixed harrness & custom plate issue.
-
------------
-19/01/2023
------------
-Updated repair benches, will work with up to 2 mechs on duty.
-Lowered mechanic vehicle repair cost by 50%.
-EMS & PD repair benches will remove money from the society depending on how many mechs on duty up to 2 mechs max.
-Disabled car air control.
-
