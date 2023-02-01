@@ -1,4 +1,10 @@
 -----------
+01/02/2023
+-----------
+Removed Pokemon shop for future update
+Added takeway bags to food ingredient shops instead
+
+-----------
 30/01/2023
 -----------
 Clothing Update: 
@@ -26,11 +32,3 @@ Updated comserve commands
 Added PD weapon repair point
 Removed illegal fish bait from shop, made it a craftable
 Added new Queue system
-
------------
-27/01/2023
------------
-Moved Bennys to Paleto
-Removed unused MLOs
-Adjust illegal fishing dispatch
-Fixed few exploits
