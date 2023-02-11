@@ -1,4 +1,18 @@
 -----------
+11/02/2023
+-----------
+Adjusted bounties
+Added Paleto Apartments
+Added Paleto Apartments Spawn
+Added claw machine at Pops Diner
+Added Music at Pops Diner
+Added seating at Pops Diner
+Fixed prison blip issue
+Added radio channel keybinds up-arrow/down-arrow
+Moved Garbage starting location to Sandy, added paleto into collecting area
+Fixed garage fuel issue
+
+-----------
 04/02/2023
 -----------
 Bounties Updated - The contract will cancel if you die
@@ -10,18 +24,3 @@ Bounties Updated - The contract will cancel if you die
 Updated Bennys MLO
 Removed static music from VU and Burgershot
 Added NEW bounty hunting missions (Paleto PD)
-
------------
-03/02/2023
------------
-Added Comisioner vote system in city hall (PD only)
-Updated setplate to garage script native command
-Updated Pokemon, moved badge locations (in same area)
-Removed AI Pokemon seller
-Updated all Pokemon prices
-Added Pokemon to Pawnshop sell list
-Changed Claw Machine prize drops
-Added Pawnshop NPC where you can sell at a 50% rate
-Added Tracky Server Vote system
-Use /vote & link your DISCORD, when done /checkvote
-/checkvote will give you 5x Claw Tokens (only way to get tokens)
